@@ -1,0 +1,11 @@
+# Ignore all config files
+config/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore all .env files
+*.env
+
+# Ignore logs folder
+logs/

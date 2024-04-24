@@ -1,0 +1,25 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1bc85h9,I hope your pipelines are atomic?,54,15,Thinker_Assignment,2024-03-11 17:01:44,https://i.redd.it/h5udr4npkqnc1.png,False,False,False,False
+1bc1njq,"Need to setup a Petabyte scale geospatial analysis data platform. Need help to connect the dots, and choosing the right tech stack (OSS only)",11,17,vigorousvj,2024-03-11 12:09:15,https://www.reddit.com/r/dataengineering/comments/1bc1njq/need_to_setup_a_petabyte_scale_geospatial/,False,False,False,False
+1bchyko,we built an open source Salesforce CDP alternative,11,0,wishingchairs,2024-03-11 23:27:20,https://www.reddit.com/r/dataengineering/comments/1bchyko/we_built_an_open_source_salesforce_cdp_alternative/,False,False,False,False
+1bcew7i,What are the common types of behavioural questions you should expect in an entry level data engineer role?,9,10,Outside_Aide_1958,2024-03-11 21:26:25,https://www.reddit.com/r/dataengineering/comments/1bcew7i/what_are_the_common_types_of_behavioural/,False,False,False,False
+1bc9ree,On Apache Iceberg and snapshots expiration,8,7,paturnio,2024-03-11 18:05:55,https://www.reddit.com/r/dataengineering/comments/1bc9ree/on_apache_iceberg_and_snapshots_expiration/,False,False,False,False
+1bc5i2z,Processing Kafka streams in Python,8,0,arimbr,2024-03-11 15:13:01,https://pathway.com/developers/showcases/kafka-etl,False,False,False,False
+1bcmrya,Airflow is so slow with one only dag!,3,11,Taptinnn,2024-03-12 03:03:12,https://www.reddit.com/r/dataengineering/comments/1bcmrya/airflow_is_so_slow_with_one_only_dag/,False,False,False,False
+1bcihcy,Data Warehouse to Lakehouse Evolution,6,0,Single_Brother_1791,2024-03-11 23:48:40,https://iomete.com/resources/blog/from-data-warehouses-to-data-lakehouses,False,False,False,False
+1bcijs0,Azure Data bricks  live project ,3,3,Terrible_Mud5318,2024-03-11 23:51:25,https://www.reddit.com/r/dataengineering/comments/1bcijs0/azure_data_bricks_live_project/,False,False,False,False
+1bcch7b,Expedock replicates data from Postgres to Snowflake with <1 min latency and 5x cost savings with PeerDB,3,0,assaxor,2024-03-11 19:52:56,https://www.peerdb.io/customers/expedock-customer-story,False,False,False,False
+1bcv2qo,Software QA in a Data Engineering Team,2,2,BestBlackberry1314,2024-03-12 11:35:15,https://www.reddit.com/r/dataengineering/comments/1bcv2qo/software_qa_in_a_data_engineering_team/,False,False,False,False
+1bcsjmf,Have you ever heard about a data visualization tool that can edit data?,5,16,vitodeltoro,2024-03-12 08:51:47,https://www.reddit.com/r/dataengineering/comments/1bcsjmf/have_you_ever_heard_about_a_data_visualization/,False,False,False,False
+1bclc8c,SOP for enabling end users to enrich data?,2,1,KnightoftheDadBod,2024-03-12 01:55:01,https://www.reddit.com/r/dataengineering/comments/1bclc8c/sop_for_enabling_end_users_to_enrich_data/,False,False,False,False
+1bc3u16,Integration Platform,2,1,Heyohz,2024-03-11 13:58:54,https://www.reddit.com/r/dataengineering/comments/1bc3u16/integration_platform/,False,False,False,False
+1bcvbdr,Apache Atlas Review ,2,1,Prestigious-Job9989,2024-03-12 11:48:37,https://www.reddit.com/r/dataengineering/comments/1bcvbdr/apache_atlas_review/,False,False,False,False
+1bcnb0v,API get data which one is faster,1,2,Curious_Gur9574,2024-03-12 03:29:00,https://www.reddit.com/r/dataengineering/comments/1bcnb0v/api_get_data_which_one_is_faster/,False,False,False,False
+1bce00m,Validating data types before merging a dbt model,1,1,South-Ambassador2326,2024-03-11 20:51:33,https://www.reddit.com/r/dataengineering/comments/1bce00m/validating_data_types_before_merging_a_dbt_model/,False,False,False,False
+1bcbj0k,"Job situation in QC, Canada",1,0,FreeTrout,2024-03-11 19:16:08,https://www.reddit.com/r/dataengineering/comments/1bcbj0k/job_situation_in_qc_canada/,False,False,False,False
+1bc78mk,Opinions about this course ,1,2,Blast06,2024-03-11 16:25:20,https://github.com/DataTalksClub/data-engineering-zoomcamp,False,False,False,False
+1bctnhy,Best data modeling tool,0,1,Public_Depth_532,2024-03-12 10:07:12,https://www.reddit.com/r/dataengineering/comments/1bctnhy/best_data_modeling_tool/,False,False,False,False
+1bcsupd,[Hiring] Big Data Engineer with Spark (located in Poland),1,0,ComprehensiveSell578,2024-03-12 09:13:04,https://www.reddit.com/r/dataengineering/comments/1bcsupd/hiring_big_data_engineer_with_spark_located_in/,False,False,False,False
+1bcatsa,Which DE stack ?,0,3,Mr-Wedge01,2024-03-11 18:48:49,https://www.reddit.com/r/dataengineering/comments/1bcatsa/which_de_stack/,False,False,False,False
+1bc3oqi,Clarity about interviews,0,11,SnooPaintings8455,2024-03-11 13:51:55,https://www.reddit.com/r/dataengineering/comments/1bc3oqi/clarity_about_interviews/,False,False,False,False
+1bchbvu,Want to get out of truck driving into DE Role! ,0,7,OkAnxiety6192,2024-03-11 23:01:31,https://www.reddit.com/r/dataengineering/comments/1bchbvu/want_to_get_out_of_truck_driving_into_de_role/,False,False,False,False
